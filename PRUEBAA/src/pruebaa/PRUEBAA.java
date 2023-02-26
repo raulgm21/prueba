@@ -9,7 +9,7 @@ package pruebaa;
  * @author pedro
  */
 public class PRUEBAA {
-    // IMBECIL :)
+    // I
     /**
      * @param args the command line arguments
      */
